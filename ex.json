@@ -1,0 +1,19 @@
+{
+"League" : 1.0: [
+{
+"Name" : "Fi",
+"Buffs":" Auto attackes do more base damage",
+"Nerfs": "None",
+},
+{
+"Name" : "Tee",
+"Buffs": "none",
+"Nerfs": "Poison damage scaled down"
+},
+{
+"Name" :"Ekko",
+"Buffs": "Time Winder does more damage",
+"Nerfs" : "No more stun on ability ",
+},
+]
+}
